@@ -1,2 +1,2 @@
-buy fruits
+~buy fruits~
 Test2
